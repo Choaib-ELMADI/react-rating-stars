@@ -1,3 +1,3 @@
 `React Rating Stars`
 
-**Copy and Paste to your project 
+** Copy and Paste to your project 
