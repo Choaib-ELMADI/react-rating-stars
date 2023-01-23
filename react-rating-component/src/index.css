@@ -5,6 +5,7 @@
 }
 
 body {
+    background: #9598a0;
     display: flex;
     justify-content: center;
     align-items: center;

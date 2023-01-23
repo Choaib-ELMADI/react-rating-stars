@@ -20,7 +20,7 @@ const RatingStars = () => {
                     onClick={ () => setRating(ratingValue) }
                   />
                   <FaStar 
-                    size={ 28 } 
+                    size={ 30 } 
                     className='star' 
                     onMouseEnter={ () => setHover(ratingValue) }
                     onMouseLeave={ () => setHover(null) }
