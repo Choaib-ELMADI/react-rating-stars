@@ -1,3 +1,3 @@
-`React Rating Stars`
+`<h1>React Rating Stars</h1>`
 
-** Copy and Paste to your project 
+<b>Copy and Paste to your project</b>
